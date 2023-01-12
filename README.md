@@ -86,7 +86,7 @@ The communication between the manager node and the worker nodes is established t
 ### Note   
 1. Operation Video: 
 
-   [![video_preview](README.assets/video_preview.png)](https://drive.google.com/file/d/1gxDpU1c7R3iOMCqg6Ax7R07Aj2Mx05kb/preview)
+   https://user-images.githubusercontent.com/17313035/212061711-e97fe679-d82f-4c33-a28e-15bd339b5aba.mp4
 
 2. You can login to our project directly using the server URL (http://128.95.190.58), as we use TMUX to run our project on GENI continuously.
 
